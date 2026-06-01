@@ -1,0 +1,8 @@
+﻿*.obj
+*.res
+*.exe.manifest
+DesktopLayoutSaver.exe
+DesktopLayoutSaver_v1_working.exe
+setup.exe
+uninstall.exe
+VC_redist.x64.exe

@@ -1,0 +1,7 @@
+﻿#include <windows.h>
+#define IDI_APPICON  1
+#define IDR_MAINEXE  101
+#define IDR_UNINST   102
+IDI_APPICON  ICON   "app.ico"
+IDR_MAINEXE  RCDATA "dist/portable/ailiasDesktopLayoutSaver.exe"
+IDR_UNINST   RCDATA "uninstall.exe"
